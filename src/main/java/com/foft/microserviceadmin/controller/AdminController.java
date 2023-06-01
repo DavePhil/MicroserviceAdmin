@@ -18,6 +18,7 @@ import com.foft.microserviceadmin.modele.Admin;
 // import com.foft.microserviceadmin.repository.AdminRepository;
 import com.foft.microserviceadmin.service.AdminService;
 @RestController
+@RequestMapping("MicroAdmin")
 public class AdminController {
 
     @Autowired
