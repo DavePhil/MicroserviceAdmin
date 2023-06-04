@@ -108,6 +108,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>microadmin</finalName>
     </build>
 
 </project>
